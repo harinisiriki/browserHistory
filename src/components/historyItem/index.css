@@ -1,0 +1,32 @@
+.list-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.time {
+  font-size: 18px;
+  color: #475569;
+  font-family: 'roboto';
+}
+.app-logo {
+  width: 20px;
+  height: 20px;
+}
+.title {
+  font-size: 18px;
+  color: #475569;
+  font-family: 'roboto';
+}
+.link {
+  font-size: 18px;
+  color: #ececec;
+  font-family: 'roboto';
+}
+.button {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+.delete-icon {
+  height: 15px;
+  width: 15px;
+}
